@@ -12,4 +12,4 @@ The main principle of this application is to reduce useless taps on the screen t
 - Google Firebase
 
 ## Screenshots
-![alt Screenshot#1](https://krasnoyarsk.hh.ru/photo/487147303.png?t=1496401424&h=kddRcfUzBCHhK729bvvhfw)
+![alt Screenshot#1](https://github.com/Perfomer/StudentsAlarm-2017/blob/master/Screenshots/Screenshot.png)

@@ -1,4 +1,7 @@
 # StudentsAlarm-2017
+
+**WARNING! This project is deprecated. The [new version](https://github.com/Perfomer/WelloAlarm-2017/tree/master) is rewritten from scratch. The code style, architecture and quality of technology use reflected in this project are no longer relevant. **
+
 **Alarm app for Android OS. Perfect for students with 2-weeks graphic.**
 
 Today, most Russian universities have a 2-week timetable. Ordinary alarm clocks can not work with such a schedule so that you do not have to switch it every time.

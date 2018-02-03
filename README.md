@@ -1,4 +1,4 @@
-# StudentsAlarm-2017
+# Students Alarm (2017)
 
 ### WARNING! This project is deprecated. The [new version](https://github.com/Perfomer/WelloAlarm-2017/tree/master) is rewritten from scratch. The code style, architecture and quality of technology use reflected in this project are no longer relevant.
 ---
